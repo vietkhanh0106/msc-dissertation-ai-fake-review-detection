@@ -1,0 +1,9 @@
+dataset,model,accuracy,precision,recall,f1,auc
+Salminen,LogisticRegression,0.867,0.873,0.86,0.866,0.942
+Salminen,RandomForest,0.795,0.812,0.768,0.789,0.886
+Salminen,SVM,0.869,0.863,0.876,0.87,0.942
+Salminen,XGBoost,0.835,0.863,0.796,0.828,0.923
+Hollenbeck,LogisticRegression,0.816,0.2,0.819,0.322,0.892
+Hollenbeck,RandomForest,0.798,0.174,0.743,0.282,0.854
+Hollenbeck,SVM,0.813,0.196,0.806,0.315,0.885
+Hollenbeck,XGBoost,0.808,0.185,0.757,0.297,0.866
